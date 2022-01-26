@@ -1,2 +1,2 @@
 # Algorithmes
-Solution des certains algorithmes que je vois interessant dans HACKERSRANK
+Solution des certains algorithmes que je vois interessant dans HACKERRANK
